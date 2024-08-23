@@ -1,4 +1,4 @@
-# UIManager
+# Simple UI Navigation System
 Easy to use and highly customizable UI Navigation Management for Unity 
 
 • This architecture makes use of Addressables, Scriptable Objects, DI (VContainer), Events (MessagePipe) and Unitask (MessagePipe) 
